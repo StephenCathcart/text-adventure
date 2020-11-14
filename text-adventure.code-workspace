@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*_test.lua": false,
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true
+		},
+		"editor.fontSize": 10,
+		"debug.console.fontSize": 10,
+		"terminal.integrated.fontSize": 10,
+		"markdown.preview.fontSize": 10,
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true
+		},
+		"explorerExclude.backup": null
+	}
+}

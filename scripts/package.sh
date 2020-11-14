@@ -1,0 +1,1 @@
+zip -r -x=*.DS_Store* -x=*.git* -x=*README.md* -x=*.code-workspace* -x=*_test.lua* -x=flot/* Game.love .

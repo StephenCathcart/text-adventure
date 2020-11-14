@@ -1,0 +1,15 @@
+{
+    "name": "BRITTLE BONES",
+    "description": "Greatly reduces enemy physical defence.",
+    "cost": 2,
+    "priority": 0,
+    "family": "BONE",
+    "category": "MAGIC",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "FOE",
+            "power": 3
+        }
+    ]
+}

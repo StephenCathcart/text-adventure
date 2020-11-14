@@ -1,0 +1,15 @@
+{
+    "name": "MAMMONS FATE",
+    "seal": "ANCIENT_SEAL",
+    "prefix": null,
+    "affix": null,
+    "priority": null,
+    "description": "",
+    "effects": [
+        {
+            "name": "",
+            "target": "",
+            "power": 0
+        }
+    ]
+}

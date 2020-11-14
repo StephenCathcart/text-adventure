@@ -1,0 +1,27 @@
+{
+    "name": "BEAST",
+    "description": "",
+    "moves": [
+        "BITE",
+        "MUTILATE",
+        "FRENZY",
+        "DEMORALISING HOWL",
+        "VENGEFUL BITE",
+        "LAST STAND",
+        "CANNIBALISE",
+        "INTIMIDATING HOWL",
+        "LICK WOUNDS"
+    ],
+    "effectivness": {
+        "beast": 1,
+        "blood": 1,
+        "bone": 0.5,
+        "disease": 0.5,
+        "dragon": 1,
+        "flame": 1,
+        "frost": 1,
+        "insect": 1,
+        "wrath": 0.5
+    },
+    "immunities": []
+}

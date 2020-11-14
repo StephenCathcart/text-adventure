@@ -1,0 +1,29 @@
+{
+    "name": "FROST",
+    "description": "",
+    "moves": [
+        "ICICLE",
+        "ICE BURN",
+        "BLIZZARD",
+        "ICE ARMOUR",
+        "FREEZE BLOOD",
+        "JAGGED ICE",
+        "FROSTBITE",
+        "ABSOLUTE ZERO",
+        "CHAINS OF ICE"
+    ],
+    "effectivness": {
+        "beast": 1,
+        "blood": 1,
+        "bone": 2,
+        "disease": 0,
+        "dragon": 2,
+        "flame": 0.5,
+        "frost": 0.5,
+        "insect": 1,
+        "wrath": 1
+    },
+    "immunities": [
+        "CHILL_EFFECT"
+    ]
+}

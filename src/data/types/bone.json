@@ -1,0 +1,29 @@
+{
+    "name": "BONE",
+    "description": "",
+    "moves": [
+        "SHATTER",
+        "BONE SPIKES",
+        "DISLOCATION",
+        "BONE PRISON",
+        "BRITTLE BONES",
+        "BONE ARMOUR",
+        "DEFLECTION",
+        "SOUL LINK",
+        "HEX"
+    ],
+    "effectivness": {
+        "beast": 1,
+        "blood": 1,
+        "bone": 0.5,
+        "disease": 0.5,
+        "dragon": 2,
+        "flame": 2,
+        "frost": 1,
+        "insect": 1,
+        "wrath": 2
+    },
+    "immunities": [
+        "BLEED_EFFECT"
+    ]
+}

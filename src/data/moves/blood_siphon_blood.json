@@ -1,0 +1,15 @@
+{
+    "name": "SIPHON BLOOD",
+    "description": "............",
+    "cost": 3,
+    "priority": 0,
+    "family": "BLOOD",
+    "category": "MAGIC",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "SELF",
+            "power": 3
+        }
+    ]
+}

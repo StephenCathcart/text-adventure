@@ -1,0 +1,11 @@
+{
+    "name": "Death",
+    "level": 10,
+    "arcana": "Major",
+    "suit": "Cups",
+    "elemental": true,
+    "north": 10,
+    "east": 9,
+    "south": 10,
+    "west": 8
+}

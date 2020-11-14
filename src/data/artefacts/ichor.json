@@ -1,0 +1,7 @@
+{
+    "name": "Ichor",
+    "description": "A weird potion.",
+    "upgrades": "Zed's Clinic",
+    "location": "The Cesspools",
+    "reputation": 10
+}

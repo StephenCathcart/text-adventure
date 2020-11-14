@@ -1,0 +1,15 @@
+{
+    "name": "FESTERING",
+    "seal": "TOGO_SEAL",
+    "prefix": "ESPER",
+    "affix": "RA",
+    "priority": 1,
+    "description": "",
+    "effects": [
+        {
+            "name": "",
+            "target": "",
+            "power": 0
+        }
+    ]
+}

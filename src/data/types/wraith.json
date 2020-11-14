@@ -1,0 +1,30 @@
+{
+    "name": "WRAITH",
+    "description": "",
+    "moves": [
+        "MALEFIC CLAW",
+        "MALEDICTION: HAUNT I/IV",
+        "POSSESS",
+        "HYSTERIA",
+        "MALEDICTION: NECROSIS I/IV",
+        "PANIC ATTACK",
+        "PARANOIA",
+        "MALEDICTION: DECREPIFY I/IV",
+        "NEVERMORE"
+    ],
+    "effectivness": {
+        "beast": 2,
+        "blood": 1,
+        "bone": 1,
+        "disease": 1,
+        "dragon": 1,
+        "flame": 1,
+        "frost": 1,
+        "insect": 1,
+        "wrath": 0
+    },
+    "immunities": [
+        "CURSE_EFFECT",
+        "PHYSICAL"
+    ]
+}

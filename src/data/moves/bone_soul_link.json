@@ -1,0 +1,15 @@
+{
+    "name": "SOUL LINK",
+    "description": "Links soul with enemy for 1 turn. Enemy dies if self dies.",
+    "cost": 2,
+    "priority": 0,
+    "family": "BONE",
+    "category": "MAGIC",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "SELF",
+            "power": 1
+        }
+    ]
+}

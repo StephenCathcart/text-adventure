@@ -1,0 +1,15 @@
+{
+    "name": "HEX",
+    "description": "Turns enemy to undead for 3 turns. Heals / revives now damage enemy.",
+    "cost": 3,
+    "priority": 0,
+    "family": "BONE",
+    "category": "MAGIC",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "FOE",
+            "power": 3
+        }
+    ]
+}

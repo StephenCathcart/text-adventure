@@ -1,0 +1,28 @@
+{
+    "id": 6,
+    "bio": {
+        "name": "AMMUT",
+        "rank": "Unknown",
+        "legions": 0,
+        "description": "A female demon with the body part lion, hippopotamus and crocodile. Called Devourer of the Dead, Ammit lived near the scales of justice in Egyptian underworld and devoured the hearts of those judged to be not pure.",
+        "height": 6.12,
+        "weight": 23.3
+    },
+    "base": {
+        "hp": 21,
+        "attack": 132,
+        "defence": 23,
+        "spell_attack": 77,
+        "spell_defence": 11,
+        "speed": 92
+    },
+    "types": [
+        "BEAST"
+    ],
+    "passives": [
+        "AFTERSHOCK",
+        "MEGA DRAIN"
+    ],
+    "ultimate": "EARTHQUAKE"
+}
+

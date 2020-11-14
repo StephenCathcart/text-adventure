@@ -1,0 +1,1 @@
+find . -name "*_test.lua" -print | while read filename; do lua $filename $1; done

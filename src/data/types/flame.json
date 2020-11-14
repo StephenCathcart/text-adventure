@@ -1,0 +1,29 @@
+{
+    "name": "FLAME",
+    "description": "",
+    "moves": [
+        "CONFLAGRATION",
+        "PYROCLASM",
+        "DEMONIC FLARE",
+        "CAUTERISE",
+        "OVERHEAT",
+        "MOLTEN WALL",
+        "REBIRTH",
+        "ENGULFING FLAMES",
+        "INFERNAL BOMB"
+    ],
+    "effectivness": {
+        "beast": 1,
+        "blood": 2,
+        "bone": 0.5,
+        "disease": 2,
+        "dragon": 0.5,
+        "flame": 0.5,
+        "frost": 2,
+        "insect": 2,
+        "wrath": 1
+    },
+    "immunities": [
+        "BURN_EFFECT"
+    ]
+}

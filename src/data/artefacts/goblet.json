@@ -1,0 +1,7 @@
+{
+    "name": "Goblet",
+    "description": "A finely crafted goblet.",
+    "upgrades": "Tavern",
+    "location": "The Fleshworks",
+    "reputation": 10
+}

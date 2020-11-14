@@ -1,0 +1,20 @@
+{
+    "name": "BITE",
+    "description": "Inflict low damage on the enemy. Gain 5% of your maximum HP.",
+    "cost": 1,
+    "priority": 0,
+    "family": "BEAST",
+    "category": "PHYSICAL",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "ENEMY",
+            "power": 20
+        },
+        {
+            "name": "HEAL_MAX_HP",
+            "target": "SELF",
+            "power": 5
+        }
+    ]
+}

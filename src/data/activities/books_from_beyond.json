@@ -1,0 +1,9 @@
+{
+    "name": "Books From Beyond",
+    "description": "Various rare books have been discovered by the librarian...",
+    "effects": [
+        {
+            "description": "Available demon scriptures increased by 2."
+        }
+    ]
+}

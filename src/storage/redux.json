@@ -1,0 +1,165 @@
+{
+    "resource": {
+        "coins": 0,
+        "soulstone": 0
+    },
+    "artefact": {
+        "backpack": 0,
+        "goblet": 0,
+        "ichor": 0,
+        "lantern": 0,
+        "mojo": 0,
+        "parchment": 0,
+        "skull": 0
+    },
+    "reputation": {
+        "archive": 0,
+        "clinic": 0,
+        "crypt": 0,
+        "hovel": 0,
+        "shack": 0,
+        "tavern": 0,
+        "wagon": 0
+    },
+    "provision": {
+        "potion": 0,
+        "food": 0,
+        "torch": 0,
+        "shovel": 0,
+        "key": 0,
+        "water": 0,
+        "herb": 0,
+        "bandage": 0,
+        "antivenom": 0,
+        "laudanum": 0
+    },
+    "hierarchy": {
+        "t1": {
+            "demon": 0,
+            "master": null,
+            "servants": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "necropolis": {
+            "t2": {
+                "demon": 0,
+                "master": 0,
+                "servants": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "t3.1": {
+                "demon": 0,
+                "master": 0,
+                "servants": [
+                    0,
+                    0
+                ]
+            },
+            "t3.2": {
+                "demon": 0,
+                "master": 0,
+                "servants": [
+                    0,
+                    0
+                ]
+            },
+            "t4.1": {
+                "demon": 0,
+                "master": 0,
+                "servants": null
+            },
+            "t4.2": {
+                "demon": 0,
+                "master": 0,
+                "servants": null
+            },
+            "t4.3": {
+                "demon": 0,
+                "master": 0,
+                "servants": null
+            }
+        },
+        "cesspools": {},
+        "aquaducts": {},
+        "fleshwerks": {}
+    },
+    "necronomicon": {
+        "id": 76,
+        "power": 1,
+        "location": {
+            "domain": "FLESHWERKS",
+            "location": 7
+        },
+        "base": {
+            "hp": 21,
+            "attack": 132,
+            "defence": 23,
+            "spell_attack": 77,
+            "spell_defence": 11,
+            "speed": 92
+        },
+        "bio": {
+            "name": "BUNE",
+            "personality": "DEFENDER",
+            "lore": "Bune changes the place of the dead and makes them demons that are under his power to gather together upon those sepulchres..",
+            "history": [
+                "somthing cool happened",
+                "and again here"
+            ],
+            "relationships": [
+                {
+                    "demon": "AMMUT",
+                    "type": "HOSTILE"
+                }
+            ],
+            "height": 3.11,
+            "weight": 12.1
+        },
+        "types": [
+            "DRAGON",
+            "BONE"
+        ],
+        "moveset": [
+            "BONE SPIKES",
+            "BRITTLE BONES",
+            "DEFLECTION",
+            "DISLOCATION"
+        ],
+        "ultimate": "EARTHQUAKE",
+        "abilities": [
+            {
+                "name": "AFTERSHOCK",
+                "immutable": true,
+                "active": true
+            },
+            {
+                "name": "MEGA DRAIN",
+                "immutable": false,
+                "active": true
+            },
+            {
+                "name": "SOMETHING",
+                "immutable": false,
+                "active": false
+            }
+        ],
+        "quirks": [
+            "FRENZIED",
+            "HUNGRY"
+        ],
+        "afflictions": {
+            "bleed": 0,
+            "burn": 0,
+            "chill": 0,
+            "cripple": 0,
+            "plague": 0
+        }
+    }
+}

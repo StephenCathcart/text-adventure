@@ -1,0 +1,15 @@
+{
+    "name": "BONE PRISON",
+    "description": "Complete physical immunity to damage for 2 turns but cannot attack. Persists on ally switch.",
+    "cost": 1,
+    "priority": 0,
+    "family": "BONE",
+    "category": "PHYSICAL",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "SELF_TEAM",
+            "power": 2
+        }
+    ]
+}

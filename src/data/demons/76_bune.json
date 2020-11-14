@@ -1,0 +1,28 @@
+{
+    "id": 76,
+    "bio": {
+        "name": "BUNE",
+        "rank": "Great Duke of Jinnestan",
+        "legions": 30,
+        "description": "Bune changes the place of the dead and makes them demons that are under his power to gather together upon those sepulchres..",
+        "height": 3.11,
+        "weight": 12.1
+    },
+    "base": {
+        "hp": 21,
+        "attack": 132,
+        "defence": 23,
+        "spell_attack": 77,
+        "spell_defence": 11,
+        "speed": 92
+    },
+    "types": [
+        "DRAGON",
+        "BONE"
+    ],
+    "passives": [
+        "AFTERSHOCK",
+        "MEGA DRAIN"
+    ],
+    "ultimate": "EARTHQUAKE"
+}

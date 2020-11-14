@@ -1,0 +1,7 @@
+{
+    "name": "Parchment",
+    "description": "It's made from dried human flesh.",
+    "upgrades": "Archives",
+    "location": "The Necropolis",
+    "reputation": 10
+}

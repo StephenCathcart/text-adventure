@@ -1,0 +1,29 @@
+{
+    "name": "BLOOD",
+    "description": "",
+    "moves": [
+        "SIPHON BLOOD",
+        "HEMORRHAGE",
+        "OPEN VEIN",
+        "COLD BLOODED",
+        "TRANSFUSION",
+        "BLOOD MOON",
+        "HAEMOPHILIA",
+        "BLOOD LINK",
+        "BLOOD LUST"
+    ],
+    "effectivness": {
+        "beast": 1,
+        "blood": 2,
+        "bone": 0.5,
+        "disease": 0.5,
+        "dragon": 1,
+        "flame": 0.5,
+        "frost": 0.5,
+        "insect": 2,
+        "wrath": 0.5
+    },
+    "immunities": [
+        "BLEED_EFFECT"
+    ]
+}

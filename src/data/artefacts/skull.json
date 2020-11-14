@@ -1,0 +1,7 @@
+{
+    "name": "Skull",
+    "description": "An ornate skull.",
+    "upgrades": "Crypt",
+    "location": "The Necropolis",
+    "reputation": 10
+}

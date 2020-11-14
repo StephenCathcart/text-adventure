@@ -1,0 +1,15 @@
+{
+    "name": "DISLOCATION",
+    "description": "High bone damage, inflicts cripple greatly reducing enemy speed.",
+    "cost": 3,
+    "priority": 60,
+    "family": "BONE",
+    "category": "PHYSICAL",
+    "effects": [
+        {
+            "name": "DAMAGE",
+            "target": "FOE",
+            "power": 3
+        }
+    ]
+}

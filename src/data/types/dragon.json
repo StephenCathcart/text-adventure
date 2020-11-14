@@ -1,0 +1,21 @@
+{
+    "name": "DRAGON",
+    "description": "",
+    "moves": [
+        
+    ],
+    "effectivness": {
+        "beast": 1,
+        "blood": 1,
+        "bone": 1,
+        "disease": 1,
+        "dragon": 2,
+        "flame": 1,
+        "frost": 1,
+        "insect": 1,
+        "wrath": 2
+    },
+    "immunities": [
+        "PLAGUE_EFFECT"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "gold": 0,
+    "soulstones": 0,
+    "artefacts": [
+        { "name": "Adventurer's Backpack", "count": 0 },
+        { "name": "Goblet", "count": 0 },
+        { "name": "Ichor", "count": 0 },
+        { "name": "Lantern", "count": 0 },
+        { "name": "Mojo", "count": 0 },
+        { "name": "Parchment", "count": 0 },
+        { "name": "Skull", "count": 0 }
+    ],
+    "reputation": {
+        "archives": 10,
+        "crypt": 15
+    },
+    "provisions": [
+        { "name": "Potion", "count": 0 }
+    ],
+    "fetishes": [
+        {
+            "id": 1,
+            "name": "Festering Fetish of Esper Ra",
+            "enchantments": [
+                {
+                    "seal_slot": "FON_SEAL",
+                    "enchantment": "FESTERING"
+                },
+                {
+                    "seal": "EMPTY_SEAL",
+                    "enchantment": "FESTERING"
+                },
+                {
+                    "seal": "TOGO_SEAL",
+                    "enchantment": "FESTERING"
+                }
+            ]
+        }
+    ],
+    "roster": [
+        {
+            "slot": 1,
+            "name": "BUNE",
+            "xp": 215,
+            "moveset": [
+                "BONE SPIKES",
+                "BRITTLE BONES",
+                "DEFLECTION",
+                "DISLOCATION"
+            ],
+            "passive": "AFTERSHOCK",
+            "afflictions": {
+                "BLEED_EFFECT": 6,
+                "BURN_EFFECT": 0,
+                "CHILL_EFFECT": 0,
+                "CRIPPLE_EFFECT": 3,
+                "PLAGUE_EFFECT": 0
+            },
+            "fetish": 1
+        }
+    ],
+    "team": [
+        1
+    ]
+}
